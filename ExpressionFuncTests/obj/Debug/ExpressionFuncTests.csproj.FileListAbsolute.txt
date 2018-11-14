@@ -1,0 +1,13 @@
+C:\Users\Tom\Downloads\Continius\CSharp\ExpressionFuncTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tom\Downloads\Continius\CSharp\ExpressionFuncTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tom\Downloads\Continius\CSharp\ExpressionFuncTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tom\Downloads\Continius\CSharp\ExpressionFuncTests\bin\Debug\ExpressionFuncTests.dll
+C:\Users\Tom\Downloads\Continius\CSharp\ExpressionFuncTests\bin\Debug\ExpressionFuncTests.pdb
+C:\Users\Tom\Downloads\Continius\CSharp\ExpressionFuncTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tom\Downloads\Continius\CSharp\ExpressionFuncTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tom\Downloads\Continius\CSharp\ExpressionFuncTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tom\Downloads\Continius\CSharp\ExpressionFuncTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tom\Downloads\Continius\CSharp\ExpressionFuncTests\obj\Debug\ExpressionFuncTests.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Downloads\Continius\CSharp\ExpressionFuncTests\obj\Debug\ExpressionFuncTests.csproj.CopyComplete
+C:\Users\Tom\Downloads\Continius\CSharp\ExpressionFuncTests\obj\Debug\ExpressionFuncTests.dll
+C:\Users\Tom\Downloads\Continius\CSharp\ExpressionFuncTests\obj\Debug\ExpressionFuncTests.pdb
