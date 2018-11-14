@@ -12,5 +12,12 @@ namespace ExpressionFuncTests
 
             Assert.AreEqual(true, true);
         }
+
+        [TestMethod]
+        public void Tests2()
+        {
+
+            Assert.AreEqual(true, true);
+        }
     }
 }
